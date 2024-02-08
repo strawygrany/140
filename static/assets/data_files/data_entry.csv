@@ -1,4 +1,6 @@
-"date","text","emotion"
-"Date:1/19/2022","It was awesome I went to the garden and played with my friends","happiness"
-"Date:1/19/2022","It was great","happiness"
-"Date:1/19/2022","It was raining today , I cannot go to school","worry"
+date,text,emotion
+"Date:2/1/2022","hi there","anger"
+"Date:2/1/2022","hey","neutral"
+"Date:2/1/2022","i am happy today","happiness"
+"Date:2/1/2022","what should I do?","neutral"
+"Date:2/1/2022","I had lot of homework today. I could not get time to spend with the my friends.","worry"
